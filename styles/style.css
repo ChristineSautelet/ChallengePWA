@@ -1,0 +1,20 @@
+/* .container{
+    background-color: snow;
+} */
+img{
+    max-width: 100%;
+    max-height: 100%;
+    border:black 3px solid;
+    border-radius: 15px;
+}
+.container{
+    border: black 2px solid;
+    border-radius: 15px;
+}
+.main{
+    font-weight: bold;
+    font-size: 22px;
+}
+.plan img{
+    border: none
+}

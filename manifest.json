@@ -2,7 +2,8 @@
     "name": "site exemple PWA",
     "short_name": "site exemple PWA",
     "start_url":".",
-    "background_color": "#fffafa",
+    "background_color": "#ffffff",
+    "theme_color": "#ffffff",
     "display": "standalone",
     "icons": [
         {
@@ -11,8 +12,8 @@
             "type": "image/png"
         },
         {
-            "src": "img/logo384.png",
-            "sizes": "384x384",
+            "src": "img/logo512.png",
+            "sizes": "512x512",
             "type": "image/png"
         }
     ]
